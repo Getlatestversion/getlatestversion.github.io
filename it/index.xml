@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on GetLatestVersion – Italia</title><link>http://www.getlatestversion.eu/it/</link><description>Recent content in Home on GetLatestVersion – Italia</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 Apr 2020 15:00:38 +0100</lastBuildDate><atom:link href="http://www.getlatestversion.eu/it/index.xml" rel="self" type="application/rss+xml"/><item><title>Organizzazione account in Azure DevOps</title><link>http://www.getlatestversion.eu/it/2020/04/organizzazione-account-in-azure-devops/</link><pubDate>Tue, 28 Apr 2020 15:00:38 +0100</pubDate><guid>http://www.getlatestversion.eu/it/2020/04/organizzazione-account-in-azure-devops/</guid><description>&lt;p>Breve pillola sul come organizzare il proprio account Azure DevOps con Team Project / Team ed organizations.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/sv700J3_Mwk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Organizzazione account in Azure DevOps: Security</title><link>http://www.getlatestversion.eu/it/2020/04/organizzazione-account-in-azure-devops-security/</link><pubDate>Tue, 28 Apr 2020 15:00:38 +0100</pubDate><guid>http://www.getlatestversion.eu/it/2020/04/organizzazione-account-in-azure-devops-security/</guid><description>&lt;p>Breve pillola sul come Azure DevOps utilizzi gruppi interni per gestire la security di un intera organizzazione e quella dei singoli Team Projects.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/8oU6eeK9PMg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>Buona visione.&lt;/p></description></item><item><title>Evidenziare gli impedimenti in una kanban board su Azure DevOps</title><link>http://www.getlatestversion.eu/it/2020/04/evidenziare-gli-impedimenti-in-una-kanban-board-su-azure-devops/</link><pubDate>Sat, 25 Apr 2020 20:14:38 +0100</pubDate><guid>http://www.getlatestversion.eu/it/2020/04/evidenziare-gli-impedimenti-in-una-kanban-board-su-azure-devops/</guid><description>&lt;p>In questo video tutorial viene mostrato come evidenziari gli impedimenti in un approccio kanban su Azure DevOps.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/4SSBcEbR-MI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Chi siamo</title><link>http://www.getlatestversion.eu/it/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.getlatestversion.eu/it/about/</guid><description>&lt;p>&lt;img src="http://www.getlatestversion.eu/images/320px-Flag_of_Italy.svg.png" alt="Italy flag">&lt;/p>
+&lt;h2 id="chi-siamo">Chi siamo&lt;/h2>
+&lt;p>GetLatestVersion è la prima community italiana sui temi DevOps, Application Lifecycle Management e la gestione dell&amp;rsquo;intero ciclo di vita del software (Software Development Life-Cycle).
+I membri del Team sono professionisti che operano nel settore da diversi anni ed in diversi ambiti:&lt;/p>
+&lt;ul>
+&lt;li>Metodologie di sviluppo&lt;/li>
+&lt;li>Automazione dei processi&lt;/li>
+&lt;li>Database Lifecycle Management
+Gli strumenti utilizzati sono prevalentemente basati su tecnologie Microsoft (Azure DevOps, ex Visual Studio Team Services, ex Team Foundation Server).&lt;/li>
+&lt;/ul>
+&lt;h2 id="cosa-facciamo">Cosa facciamo&lt;/h2>
+&lt;p>Pubblichiamo articoli (post) sull&amp;rsquo;applicazione dei principi DevOps in diverse organizzazioni. Il punto di vista spazia dai processi fino ai dettagli implementativi.
+Registriamo video di introduzione, di approfondimento e di condivisione di esperienze sul nostro &lt;a href="https://www.youtube.com/GetLatestVersion">canale YouTube&lt;/a>.
+Infine, organizziamo eventi di persona ed online sulle diverse tematiche inerenti DevOps e ALM.&lt;/p></description></item><item><title>Ricerca</title><link>http://www.getlatestversion.eu/it/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://www.getlatestversion.eu/it/search/</guid><description>&lt;p class="error message js-hidden">You must have Javascript enabled to use this function.&lt;/p>
+&lt;p class="search-loading status message hidden">Loading search index…&lt;/p>
+&lt;div class="search-input hidden">
+&lt;form id="search-form" class="search-form" action="#" method="post" accept-charset="UTF-8" role="search">
+&lt;label for="query" class="visually-hidden">Search&lt;/label>
+&lt;input type="search" id="query" name="query" class="search-text" placeholder="Enter the terms you wish to search for." maxlength="128">
+&lt;button type="submit" name="submit" class="form-submit" >Search&lt;/button>
+&lt;/form>
+&lt;/div>
+&lt;div class="search-results">&lt;/div>
+&lt;template>
+&lt;article class="search-result list-view">
+&lt;header>
+&lt;h2 class="title title-submitted">&lt;a href="#">Title here&lt;/a>&lt;/h2>
+&lt;div class="submitted">&lt;time class="created-date">Date here&lt;/time>&lt;/div>
+&lt;/header>
+&lt;div class="content">Summary here&lt;/div>
+&lt;/article>
+&lt;/template></description></item></channel></rss>

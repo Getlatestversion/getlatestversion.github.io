@@ -1,45 +1,7 @@
 {
   "publish-info": {
-    "cut-over-date": "2020-05-23 10:49:55.400901826 +0000 UTC"
+    "cut-over-date": "2020-05-23 17:59:57.348175345 +0000 UTC"
   },
-  "posts": [
-    {
-      "lang": "en",
-      "title": "Top 10 Pipeline mistakes",
-      "link": "http://www.getlatestversion.eu/2020/05/top-10-pipeline-mistakes/",
-      "date": "2020-05-23 14:00:00 +0100 +0100",
-      "summary": "Introduction to the Top 10 Pipeline mistakes series",
-      "authors": [
-        {
-          "nick": "giuliov",
-          "name": "Giulio Vian",
-          "social": {
-            "twitter": {
-              "name": "@giulio_vian",
-              "url": "https://twitter.com/giulio_vian"
-            },
-            "github": {
-              "name": "giuliov",
-              "url": "https://github.com/giuliov"
-            },
-            "slideshare": {
-              "name": "giuliov",
-              "url": "http://www.slideshare.net/giuliov"
-            },
-            "linkedin": {
-              "name": "Giulio Vian",
-              "url": "https://www.linkedin.com/in/giuliovian/"
-            },
-            "mvp-profile": {
-              "name": "Giulio Vian",
-              "url": "https://mvp.microsoft.com/en-us/PublicProfile/5001994"
-            },
-            "personal-blog": {
-              "name": "https://blog.casavian.eu",
-              "url": "https://blog.casavian.eu"
-            }
-          }
-        }]
-    }]
+  "posts": []
 }
 

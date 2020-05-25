@@ -1,7 +1,37 @@
 {
   "publish-info": {
-    "cut-over-date": "2020-05-23 17:59:57.452312994 +0000 UTC"
+    "cut-over-date": "2020-05-24 04:07:03.618006521 +0000 UTC"
   },
-  "posts": []
+  "posts": [
+    {
+      "lang": "it",
+      "title": "Organizzazione account in Azure DevOps: Security dei WorkItem",
+      "link": "http://www.getlatestversion.eu/it/2020/05/organizzazione-account-in-azure-devops-security-dei-workitem/",
+      "date": "2020-05-25 00:00:38 +0100 +0100",
+      "summary": "Configurare la security dei repository in caso di Team Projects suddivisi in più Teams",
+      "authors": [
+        {
+          "nick": "alkampfer",
+          "name": "Gian Maria Ricci",
+          "social": {
+            "twitter": {
+              "name": "@alkampfer",
+              "url": "https://twitter.com/alkampfer"
+            },
+            "github": {
+              "name": "alkampfergit",
+              "url": "https://github.com/alkampfergit"
+            },
+            "web-site": {
+              "name": "http://www.codewrecks.com/",
+              "url": "http://www.codewrecks.com/"
+            },
+            "linkedin": {
+              "name": "https://www.linkedin.com/in/gianmariaricci",
+              "url": "https://www.linkedin.com/in/gianmariaricci"
+            }
+          }
+        }]
+    }]
 }
 

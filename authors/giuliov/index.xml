@@ -216,6 +216,7 @@ Last update: 10 June 2020&lt;/p>
 &lt;li>&lt;a href="../bleeding-edge">&lt;em>Bleeding edge&lt;/em>&lt;/a> &amp;ndash; using the latest and greatest technology is not always a wise choice;&lt;/li>
 &lt;li>&lt;a href="../galactic-builds">&lt;em>Galactic Builds&lt;/em>&lt;/a> &amp;ndash; far-reaching builds that slow teams down instead of helping them;&lt;/li>
 &lt;li>&lt;a href="../flaky-builds">&lt;strong>Flaky builds&lt;/strong>&lt;/a> &amp;ndash; builds generating unreproducible behaviours or random artefacts;&lt;/li>
+&lt;li>&lt;a href="../../06/flaky-builds">&lt;strong>Flaky builds&lt;/strong>&lt;/a> &amp;ndash; builds generating unreproducible behaviours or random artefacts;&lt;/li>
 &lt;li>&lt;a href="../too-much-of-a-good-thing">&lt;em>Too much of a good thing&lt;/em>&lt;/a> &amp;ndash; when you go too far to avoid the above mistakes, causing the fix to backfire;&lt;/li>
 &lt;li>&lt;a href="../implicit-assumption">&lt;em>Implicit assumption&lt;/em>&lt;/a> &amp;ndash; any build that breaks when some undocumented environmental condition change;&lt;/li>
 &lt;li>&lt;a href="../untamed-plugins">&lt;em>Untamed plugins&lt;/em>&lt;/a> &amp;ndash; similar to the previous one, it is the nightmare of people that manage your build environments, when the build software uses too many, or even conflicting plugins.&lt;/li>

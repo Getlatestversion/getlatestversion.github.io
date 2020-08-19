@@ -1,7 +1,45 @@
 {
   "publish-info": {
-    "cut-over-date": "2020-08-18 04:09:42.870338135 +0000 UTC"
+    "cut-over-date": "2020-08-18 07:26:37.893339113 +0000 UTC"
   },
-  "posts": []
+  "posts": [
+    {
+      "lang": "it",
+      "title": "Migrare work item da Jira a Azure DevOps",
+      "link": "http://www.getlatestversion.eu/it/2020/08/migrare-work-item-da-jira-a-azure-devops/",
+      "date": "2020-08-18 17:30:00 +0200 +0200",
+      "summary": "Una guida step by step per migrare work item e flussi da Jira ad Azure DevOps",
+      "authors": [
+        {
+          "nick": "suxstellino",
+          "name": "Alessandro Alpi",
+          "social": {
+            "web-site": {
+              "name": "https://alessandroalpi.blog/",
+              "url": "https://alessandroalpi.blog/"
+            },
+            "private-blog": {
+              "name": "Medium",
+              "url": "https://medium.com/@suxstellino"
+            },
+            "mvp-profile": {
+              "name": "Alessandro Alpi",
+              "url": "https://mvp.microsoft.com/it-it/PublicProfile/4014222?fullName=Alessandro%20Alpi"
+            },
+            "github": {
+              "name": "suxstellino",
+              "url": "https://github.com/suxstellino"
+            },
+            "twitter": {
+              "name": "@suxstellino",
+              "url": "https://twitter.com/suxstellino"
+            },
+            "linkedin": {
+              "name": "Alessandro Alpi",
+              "url": "https://www.linkedin.com/in/suxstellino/"
+            }
+          }
+        }]
+    }]
 }
 

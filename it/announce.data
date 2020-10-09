@@ -1,7 +1,41 @@
 {
   "publish-info": {
-    "cut-over-date": "2020-10-07 09:59:55.620147971 +0000 UTC"
+    "cut-over-date": "2020-10-08 04:13:27.150230619 +0000 UTC"
   },
-  "posts": []
+  "posts": [
+    {
+      "lang": "it",
+      "title": "Gestire le versioni con gitversion - Introduzione",
+      "link": "http://www.getlatestversion.eu/it/2020/10/gestire-le-versioni-con-gitversion-introduzione/",
+      "date": "2020-10-09 00:00:01 +0100 +0100",
+      "summary": "Gestire le versioni delle librerie è fondamentale ma non è una pratica fatta da molti, vediamo come gitversion ci viene in aiuto",
+      "authors": [
+        {
+          "nick": "danielepo",
+          "name": "Daniele Pozzobon",
+          "social": {
+            "twitter": {
+              "name": "@pozzobondaniele",
+              "url": "https://twitter.com/pozzobondaniele"
+            },
+            "github": {
+              "name": "danielepo",
+              "url": "https://github.com/danielepo"
+            },
+            "slideshare": {
+              "name": "DanielePozzobon",
+              "url": "http://www.slideshare.net/DanielePozzobon"
+            },
+            "linkedin": {
+              "name": "Daniele Pozzobon",
+              "url": "https://www.linkedin.com/in/danielepozzobon/"
+            },
+            "personal-blog": {
+              "name": "https://codecleane.rs",
+              "url": "https://codecleane.rs"
+            }
+          }
+        }]
+    }]
 }
 
